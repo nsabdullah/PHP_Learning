@@ -8,9 +8,7 @@
 // $a  = 7;
 // $c = 18;
 
-// echo  "My  age is $c and i have $a  students"
-$a = $GLOBALS("HTTP_HOST")
-
-echo $a  ;  
+ 
+ 
 
 ?>  
